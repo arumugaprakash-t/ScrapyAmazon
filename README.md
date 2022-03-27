@@ -1,5 +1,3 @@
 # ScrapyAmazon
 
-Learning webscraping 
-
-Scraping amazon webpages for book details and store the results in mysql db
+Scraping amazon webpages for Books details and store the book name,author name, price in MySql db
